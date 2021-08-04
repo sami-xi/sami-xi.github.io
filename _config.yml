@@ -60,7 +60,7 @@ topics:
     
   - name: SQL
     web_url: https://github.com/topics/sql
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sql/sql.png
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png
     
   - name: React
     web_url: https://github.com/topics/react
@@ -68,6 +68,6 @@ topics:
     
   - name: Azure
     web_url: https://github.com/topics/azure
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/azure/azure.png
+    image_url: https://user-images.githubusercontent.com/15990693/36123814-be1884ee-1002-11e8-9690-072cf9ab23c6.jpg
     
  
