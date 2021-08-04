@@ -1,5 +1,5 @@
 layout: sidebar
-style: dark
+style: light
 
 plugins:
   - jekyll-octicons
@@ -35,12 +35,12 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: 
+  linkedin: https://www.linkedin.com/in/sami-bhatti/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: https://twitter.com/SamiBhattiCodes
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
