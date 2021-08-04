@@ -22,11 +22,11 @@
 <html class="min-height-full">
   <head>
     <meta charset="utf-8">
-    <title>{{ "Sami's Website" }}</title>
-    <meta name="description" content="{{ "Third year university student at Carleton University interested in computer science, software development, machine learning, cloud" }}" />
-    <meta property="og:title" content="{{ "Sami Bhatti" }}" />
-    <meta property="og:image" content="{{ https://lh3.googleusercontent.com/SksVtbE6pz5o6HJ4hIMG-6NkqzgswGsGcDDS3vgRbmfUXvj2pU-790cRHsxf7kmp5BUdPRbfUTL-y62hlgxZzS_oR31BWUGc5MF7xol9kuK9bsyIPW0b_7COCQ8O-k3mxCSa5K1NSt8fmrv0QAiS5d-8sruKHQkYOc-ucZL82x87yBCf_gzukn4wkgMyLOEiVOo-vppurXhierQ3IlSL_6sFyLsP-ccSTzXzTU4ws-u94gXYNjKokXByPMJ3VcCIAZXyPg-pn6CDTqq1NYeOPleEFnYVuZiW7RQhGwFKPAdX3eIXREPHvpVwlrZwlfg1qHKVy8ucmjraKlwHueEN9u0JA3li3c6o8eJca5hC7QyzBD5AQNtwH7RTvVNEmj8l2zTl2ucnxjYFwOhMhzdqxSXp8mY8IH1jOXo_223eOuAP59EciZHnnJ_8Jd_FvqK6MQCBIfmiNVu4gQ8KjZ1lE_gJ0WKhqTkHpkV2-VLDs110KOLp_GQ3xZNrG9OLHaMMCr93cKB3s4O0C8p6io-d_uYSL94Rnq6Px1M7DcS-XMZyMeFdwv9C_4xhlEhxyId_uGsAEY_ZocvluBt1tbbZM8EYZ1NUeXc3EyvmFlQayDGnMy-KQBrlDZCyfv4DxN1U6vInGDFTOnYR8sroNKMY31m1fCvlaDytSnBc1OjyuSfWrq6nVwqFkMqIecLP2p_UDqqJW2QM4rS8CDKBS_MeKHo=w479-h950-no?authuser=0 }}" />
-    <meta property="og:description" content="{{ "Third year university student at Carleton University interested in computer science, software development, machine learning, cloud" }}" />
+    <title>{{ page_title }}</title>
+    <meta name="description" content="{{ meta_description }}" />
+    <meta property="og:title" content="{{ user.name }}" />
+    <meta property="og:image" content="{{ user.avatar_url }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="{{ "/assets/styles.css" | relative_url }}" rel="stylesheet" type="text/css">
   </head>
